@@ -38,4 +38,4 @@ This will write a file to all structs field tags set with JSON and XML tag optio
 
 There are similar things like this tool for all programming languages that but I want to create my own tool that will have other features I will add them one by one.
 <br><br>
-Especially I am creating this tool for one big project that will have a lot of network requests, response, and some calculations processes on JSON,  XML, etc., and also comment lines.
+Especially I am creating this tool for one big project that will have a lot of network requests, responses, and some calculations, database processes,  on JSON,  XML, comment lines, etc.
